@@ -12,5 +12,8 @@ Pong game implemented in Console using C++
 
 ---
 ### Screenshots
+Game:
 ![game](./img/game.png "Game")
+
+Failed Attempt:
 ![fail](./img/fail.png "Fail")
